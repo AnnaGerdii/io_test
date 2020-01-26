@@ -71,10 +71,12 @@
   text-align: center;
   margin-bottom: 30px;
   display: flex;
+  align-items: center;
 
   &__text {
     margin-left: 10px;
     color: #A9BEE5;
+    font-size: 1.1em;
   }
 }
 
