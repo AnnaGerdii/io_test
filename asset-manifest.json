@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/io_test/static/css/main.8a45667f.chunk.css",
+    "main.css": "/io_test/static/css/main.206e0c50.chunk.css",
     "main.js": "/io_test/static/js/main.b0c148eb.chunk.js",
     "main.js.map": "/io_test/static/js/main.b0c148eb.chunk.js.map",
     "runtime~main.js": "/io_test/static/js/runtime~main.592d42a9.js",
@@ -8,9 +8,9 @@
     "static/js/2.90450834.chunk.js": "/io_test/static/js/2.90450834.chunk.js",
     "static/js/2.90450834.chunk.js.map": "/io_test/static/js/2.90450834.chunk.js.map",
     "index.html": "/io_test/index.html",
-    "precache-manifest.806dc82c1f8fa4665666a0a4a27a43f3.js": "/io_test/precache-manifest.806dc82c1f8fa4665666a0a4a27a43f3.js",
+    "precache-manifest.6d103d5bc06a15a70c165dfcc6c249d7.js": "/io_test/precache-manifest.6d103d5bc06a15a70c165dfcc6c249d7.js",
     "service-worker.js": "/io_test/service-worker.js",
-    "static/css/main.8a45667f.chunk.css.map": "/io_test/static/css/main.8a45667f.chunk.css.map",
+    "static/css/main.206e0c50.chunk.css.map": "/io_test/static/css/main.206e0c50.chunk.css.map",
     "static/media/Help.scss": "/io_test/static/media/bg-decor.30820dca.svg"
   }
 }
