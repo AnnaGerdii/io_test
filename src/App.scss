@@ -1,0 +1,29 @@
+body,
+h1,
+h2,
+h3,
+p,
+ul {
+  margin: 0;
+  font-family: "Helvetica Neue", sans-serif;
+  font-weight: 300;
+}
+
+ul {
+  list-style: none;
+}
+
+button {
+  cursor: pointer;
+}
+
+.content-container {
+  display: flex;
+  background-color: #04102C;
+}
+
+@media (max-width: 1000px) {
+  .content-container {
+    flex-direction: column;
+  }
+}

@@ -1,12 +1,13 @@
 {
-  "homepage": "https://mgrinko.github.io/react_redux-list-of-todos",
-  "name": "react_redux-list-of-todos",
+  "homepage": "https://AnnaGerdii.github.io/io_test",
+  "name": "io_test",
   "version": "0.1.0",
   "private": true,
   "keywords": [],
-  "author": "Mate Academy",
   "license": "GPL-3.0",
   "dependencies": {
+    "classnames": "^2.2.6",
+    "node-sass": "^4.13.1",
     "prop-types": "^15.7.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
@@ -25,6 +26,7 @@
     "eslint-plugin-node": "^8.0.1",
     "eslint-plugin-react": "^7.14.2",
     "gh-pages": "^2.0.1",
+    "react-router-dom": "^5.1.2",
     "stylelint": "^10.0.0"
   },
   "scripts": {
