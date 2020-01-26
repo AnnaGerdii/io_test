@@ -54,11 +54,10 @@
     }
 
     &_mail-active,
-    &_mail:focus {
+    &_pass-active {
       border-color: #00BE98;
     }
-
-    &_pass-active,
+    &_mail:focus,
     &_pass:focus {
       border-color: #00BDFF;
     }
